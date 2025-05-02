@@ -1,5 +1,2 @@
-Bài tập giữa kỳm
-Họ Và Tên: Hà Văn Hiếu
-MSSV: 24110395"""Bài tập giữa kỳm
-Họ Và Tên: Hà Văn Hiếu
-MSSV: 24110395""
+# BaiTapThucHanhGiuaKi
+Bài tập thực hành giữa kỳ Họ và tên: Hà Văn Hiếu MSSV: 24110915

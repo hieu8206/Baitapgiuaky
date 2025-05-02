@@ -1,1 +1,3 @@
-# B-i-t-p-gi-a-k-
+Bài tập thực hành giữa kỳ
+Họ Và Tên: Hà Văn Hiếu
+MSSV: 24110395
